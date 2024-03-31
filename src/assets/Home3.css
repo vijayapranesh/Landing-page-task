@@ -1,0 +1,17 @@
+.home3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    flex-wrap: wrap; 
+}
+
+.heading3{
+    text-align: center;
+}
+
+.homecard{
+    display: flex;
+    flex-wrap: wrap;
+
+}

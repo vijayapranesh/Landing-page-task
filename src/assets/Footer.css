@@ -1,0 +1,64 @@
+
+.footerContainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.socialIcons{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+.socialIcons a{
+
+    margin: 10px;
+
+}
+.socialIcons a i{
+    font-size: 2em;
+    color: #0D6EFD;
+    cursor: pointer;
+
+}
+
+.footerNav{
+    width: 40%;
+}
+.footerNav ul{
+    display: flex;
+    color: #0D6EFD;
+    justify-content: space-evenly;
+    list-style: none;
+    text-decoration: underline #0D6EFD;
+    cursor: pointer;
+}
+
+
+.footerBottom{
+    margin-left: 4.75em;
+    margin-bottom: 3em;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

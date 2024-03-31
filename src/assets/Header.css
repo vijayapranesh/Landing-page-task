@@ -1,0 +1,18 @@
+
+
+
+.container{
+    display: flex;
+    background-color:#F8F9FA;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 10px;
+}
+
+.button{
+    background-color:#2269D1;
+    color: white;
+}
+
+
