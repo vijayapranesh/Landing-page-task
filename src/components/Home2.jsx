@@ -1,5 +1,4 @@
 import React from 'react'
-import '../assets/Home2.css'
 import Card2 from './Card2'
 
 const Home2 = (props) => {
